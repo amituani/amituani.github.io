@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://amituani.github.io/EOX/sitemap_index.txt
+Sitemap: https://amituani.github.io/RWk/sitemap_index.txt
+Sitemap: https://amituani.github.io/Sjf/sitemap_index.txt
+Sitemap: https://amituani.github.io/vct/sitemap_index.txt
